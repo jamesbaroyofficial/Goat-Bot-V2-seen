@@ -19,15 +19,15 @@
     ]
   },
   "adminBot": [
-    "100071880593545",
+    "61590652874813",
     ""
   ],
   "DEV": [
-    "100071880593545",
+    "",
     ""
   ],
   "GOD": [
-    "100071880593545",
+    "",
     ""
   ],
   "whiteListMode": {
@@ -35,11 +35,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "James",
   "prefix": "/",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
-  "authorName": "AminulSardar",
+  "authorFB": "",
+  "authorName": "James Baroy",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
@@ -133,11 +133,11 @@
   "logEvents": {
     "disableAll": false,
     "message": true,
-    "message_reaction": true,
+    "message_reaction": false,
     "message_unsend": true,
     "message_reply": true,
     "event": true,
-    "read_receipt": false,
+    "read_receipt": true,
     "typ": false,
     "presence": false
   },
