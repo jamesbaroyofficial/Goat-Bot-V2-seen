@@ -3,11 +3,11 @@ const { getTime } = global.utils;
 module.exports = {
 	config: {
 		name: "logsbot",
-		isBot: true,
+		isBot: false,
 		version: "1.4",
 		author: "Aminul Sardar",
 		envConfig: {
-			allow: true
+			allow: false
 		},
 		category: "events"
 	},
